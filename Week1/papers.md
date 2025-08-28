@@ -16,9 +16,9 @@
 
 ---
 
-  1.Ramamurthy P, Sharma D, Adeoye J, Choi SW, Thomson P. Bayesian Disease Mapping to Identify High-Risk Population for Oral Cancer: A Retrospective Spatiotemporal Analysis. International Journal of Dentistry. 2023;2023.
-  2.Abdullah AA, Hassan MM, Mustafa YT. A Review on Bayesian Deep Learning in Healthcare: Applications and Challenges. IEEE Access. 2022;10:36538–62.
-  3.Baldwin SA, Larson MJ. An introduction to using Bayesian linear regression with clinical data. Behaviour Research and Therapy [Internet]. 2017 Nov 1 [cited 2025 Aug 26];98:58–75. Available from: https://www.sciencedirect.com/science/article/pii/S0005796716302364?casa_token=QcZYI9SyKd8AAAAA:tl79hI8rIXWH1BYSR9R9mxETlKM6Dg0kZRQZhDzsRJJ5ARbfxaDnaBFdABs8hL4FVo4E3aCO85h6
+1. Ramamurthy P, Sharma D, Adeoye J, Choi SW, Thomson P. Bayesian Disease Mapping to Identify High-Risk Population for Oral Cancer: A Retrospective Spatiotemporal Analysis. International Journal of Dentistry. 2023;2023.
+2. Abdullah AA, Hassan MM, Mustafa YT. A Review on Bayesian Deep Learning in Healthcare: Applications and Challenges. IEEE Access. 2022;10:36538–62.
+3.Baldwin SA, Larson MJ. An introduction to using Bayesian linear regression with clinical data. Behaviour Research and Therapy [Internet]. 2017 Nov 1 [cited 2025 Aug 26];98:58–75. Available from: https://www.sciencedirect.com/science/article/pii/S0005796716302364?casa_token=QcZYI9SyKd8AAAAA:tl79hI8rIXWH1BYSR9R9mxETlKM6Dg0kZRQZhDzsRJJ5ARbfxaDnaBFdABs8hL4FVo4E3aCO85h6
   4. Chao, J. (n.d.). Open Access BMC Medical Informatics and Decision Making. https://doi.org/10.1186/s12911-023-02224-1
   5. Witteveen, A., Nane, G. F., Vliegen, I. M. H., Siesling, S., & IJzerman, M. J. (2018). Comparison of Logistic Regression and Bayesian Networks for Risk Prediction of Breast Cancer Recurrence. Medical Decision Making, 38(7), 822–833. https://doi.org/10.1177/0272989X18790963’
   6. Witteveen, A., Nane, G. F., Vliegen, I. M. H., Siesling, S., & IJzerman, M. J. (2018). Comparison of Logistic Regression and Bayesian Networks for Risk Prediction of Breast Cancer Recurrence. Medical Decision Making, 38(7), 822–833. https://doi.org/10.1177/0272989X18790963/SUPPL_FILE/DS_10.1177_0272989X18790963.PDF
