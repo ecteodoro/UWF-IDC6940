@@ -14,3 +14,14 @@
 |--------|--------|
 | Ecil | 2
 
+---
+
+    1.Ramamurthy P, Sharma D, Adeoye J, Choi SW, Thomson P. Bayesian Disease Mapping to Identify High-Risk Population for Oral Cancer: A Retrospective Spatiotemporal Analysis. International Journal of Dentistry. 2023;2023.
+    2.Abdullah AA, Hassan MM, Mustafa YT. A Review on Bayesian Deep Learning in Healthcare: Applications and Challenges. IEEE Access. 2022;10:36538–62.
+    3.Baldwin SA, Larson MJ. An introduction to using Bayesian linear regression with clinical data. Behaviour Research and Therapy [Internet]. 2017 Nov 1 [cited 2025 Aug 26];98:58–75. Available from: https://www.sciencedirect.com/science/article/pii/S0005796716302364?casa_token=QcZYI9SyKd8AAAAA:tl79hI8rIXWH1BYSR9R9mxETlKM6Dg0kZRQZhDzsRJJ5ARbfxaDnaBFdABs8hL4FVo4E3aCO85h6
+  
+
+   ---- Namita
+   
+   
+
