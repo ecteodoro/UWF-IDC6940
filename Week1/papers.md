@@ -8,9 +8,12 @@
 6. Martínez-Redondo, J., et al. (2024). **Rurality and COVID-19 Outcomes: Unraveling the Impact of Nursing Home Residency Using Bayesian Analysis.** Journal of clinical medicine.
 7. Esser, J., et al. (2024). **Seemingly unrelated Bayesian additive regression trees for cost-effectiveness analyses in healthcare.**
 8. Koscelny, S.N. (2024). **Exploring Healthcare Chatbot Information Presentation: Applying Hierarchical Bayesian Regression and Inductive Thematic Analysis in a Mixed Methods Study.**
+9. Kruschke, J.K., & Liddell, T.M. (2018). **Bayesian data analysis for newcomers.** Psychonomic Bulletin & Review.
+10. Baldwin, S.A. (2017). **An introduction to using Bayesian linear regression with clinical data.** Clinical Psychology Review.
 
 
 | Member | Papers |
 |--------|--------|
 | Ecil | 2
+| Autumn | 2
 
