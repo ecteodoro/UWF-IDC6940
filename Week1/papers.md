@@ -23,16 +23,16 @@
 
 | Member | Papers |
 |--------|--------|
-| Ecil | #2 #19 |
+| Ecil   | #2 #19 |
 | Autumn |        |
-| Namita |  #20 #   21   |
-| Chad |        |
 
----
+| Namita | #20 #21|
+| Chad   |        |
+  
 
- 
 
-   ---- Namita
+
+
    
    
 
