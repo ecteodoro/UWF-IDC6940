@@ -7,6 +7,9 @@ Solution:
 Prior predictive checking can help prevent mistakes in the formalization of the priors, whether it is (informative, weakly informative, or diffuse). The normal distribution of the prior is specified by the hyperparameters (mean and variance, mean and standard deviation, or mean and precision (the inverse of the variance).
 Prior predictive distribution and the data are compared on  mean and standard deviation of the data, which are used to check prior predictive performance to reflect important characteristics of the data, such as skewness. Also, it is suggested to check the prior through the prior predictive kernel distributions.
 
+
+Method:Bayesian regression as the backbone of genetic association, multi-omics integration, and tumor phylogenetics.
+
 Applications:
 Bayesian approaches have provided a powerful alternative to frequentist approaches for assessing associations between genetic variants and a phenotype of interest in a population. The approach incorporated prior knowledge of phenotype relationships derived from a diagnosis classification tree, as from the International Classification of Diseases (ICD-10). 
 Multi-omics data sets are better analyzed using Bayesian solutions to the problem of multimodal data integration and in large-scale cancer genomic data sets to identify molecular changes associated with cancer initiation and progression. Phylogenetic analysis of heterogeneous cancers identifies subpopulations that exist within tumours and their ancestral relationships through the analysis of single-cell and bulk tissue-sequencing data.
