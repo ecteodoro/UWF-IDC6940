@@ -19,15 +19,19 @@
 17. Loghmanpour, N. A., Kormos, R. L., Kanwar, M. K., Teuteberg, J. J., Murali, S., & Antaki, J. F. (2016). A Bayesian Model to Predict Right Ventricular Failure following Left Ventricular Assist Device Therapy. JACC. Heart Failure, 4(9), 711. https://doi.org/10.1016/J.JCHF.2016.04.004
 18. Conference, F. (n.d.). Bayesian logistic regression and its application for hypothyroid prediction in post-radiation nasopharyngeal cancer patients. https://doi.org/10.1088/1742-6596/1725/1/012010
 19. Paolucci, I et al. **Bayesian parametric models for survival prediction in medical applications**. BMC Medical Research Methodology (2023) 23:250 https://doi.org/10.1186/s12874-023-02059-4
+21. Chatzimichail, T., & Hatjimihail, A. T. (2023). A Bayesian Inference Based Computational Tool for Parametric and Nonparametric Medical Diagnosis. Diagnostics, 13(19). https://doi.org/10.3390/DIAGNOSTICS13193135
 
 | Member | Papers |
 |--------|--------|
 | Ecil   | #2 #19 |
 | Autumn |        |
-| Namita |        |
-| Chad   |        |
 
----
+| Namita | #20 #21|
+| Chad   |        |
+  
+
+
+
 
    
    
