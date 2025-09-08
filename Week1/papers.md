@@ -27,9 +27,8 @@
 | Member | Papers |
 |--------|--------|
 | Ecil   | #2 #19 |
-| Autumn |        |
-
-| Namita |  #20   #21 #22|
+| Autumn | #9 #10 |
+| Namita | #20 #21 #22|
 | Chad |        |
 
 
