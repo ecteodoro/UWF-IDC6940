@@ -22,6 +22,16 @@
 20. Zeger, S. L., Wu, Z., Coley, Y., Fojo, A. T., Carter, B., O’Brien, K., Zandi, P., Cooke, M., Carey, V., Crainiceanu, C., Muscelli, J., Gherman, A., & Mekosh, J. (2020). Using a Bayesian Approach to Predict Patients’ Health and Response to Treatment. https://doi.org/10.25302/09.2020.ME.14082031
 21. Chatzimichail, T., & Hatjimihail, A. T. (2023). A Bayesian Inference Based Computational Tool for Parametric and Nonparametric Medical Diagnosis. Diagnostics, 13(19). https://doi.org/10.3390/DIAGNOSTICS13193135
 22. van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. Nature Reviews Methods Primers, 1(1), 1–26. https://doi.org/10.1038/S43586-020-00001-2;SUBJMETA=531,639,648,705,706;KWRD=SCIENTIFIC+COMMUNITY,STATISTICS
+23. Klauenberg, Katy, Gerd Wübbeler, Bodo Mickan, Peter Harris, and Clemens Elster. 2015. “A tutorial on Bayesian Normal linear regression.” Metrologia 52 (6): 878–92. https://doi.org/10.1088/0026-1394/52/6/878.
+24. Leeuw, Christiaan de, and Irene Klugkist. 2012. “Augmenting Data With Published Results in Bayesian Linear Regression.” Multivariate Behavioral Research 47 (3): 369–91. https://doi.org/10.1080/00273171.2012.673957.
+25. Liu, Yi Ming, Sam Li Sheng Chen, Amy Ming Fang Yen, and Hsiu Hsi Chen. 2013. “Individual risk prediction model for incident cardiovascular disease: A Bayesian clinical reasoning approach.” International Journal of Cardiology 167 (5): 2008–12. https://doi.org/10.1016/J.IJCARD.2012.05.016.
+
+
+
+
+
+
+
 
 
 | Member | Papers |
