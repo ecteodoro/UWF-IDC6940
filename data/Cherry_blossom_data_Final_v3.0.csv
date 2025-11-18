@@ -1,4 +1,4 @@
-Year,Dec,Jan,Feb,Perc_win,MT,SurTempCh,climate_in,bloom_day
+year,days_dec_ge_45,days_jan_ge_45,days_feb_ge_45,prec_winter,mean_temp_winter,surface_temp_chg,climate_incidents,bloom_day
 1921,30,24,23,3.41,42.8,-0.05,3,79
 1922,20,17,19,2.56,39.1,-0.12,2,97
 1923,18,15,14,3.12,36.4,-0.18,1,99
