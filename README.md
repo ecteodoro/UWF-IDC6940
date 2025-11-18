@@ -12,3 +12,6 @@ This project aims to predict the peak bloom date of cherry blossoms in Washingto
 - `results/`: Output files, including model performance metrics and visualizations.
 - `README.md`: Project overview and documentation.
 
+### Literature Review
+
+[Literature Review](https://github.com/ecteodoro/UWF-IDC6940/blob/main/Week5/literature_review.md)
